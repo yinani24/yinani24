@@ -15,7 +15,6 @@
 - 📫 How to reach me **yinani@ucdavis.edu**
 
 - ⚡ Fun fact **I lived most of my life in Dubai 🌵**
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
