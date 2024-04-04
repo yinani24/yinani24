@@ -6,7 +6,7 @@
 <p align="center" ><img align="center" src="https://github.com/yinani24/yinani24/blob/main/gifs/event.JPG" alt="personal-photo" height="auto" width="400"/></p>
 
 - 🔭 I’m currently working on [Spotify Mood Tracker](https://github.com/yinani24/spotify_mood_tracker)
-- 👨‍💻 All of my projects are available at [yinani24](https://github.com/yinani24)
+- 👨‍💻 My Personal Website [Portfolio](https://yashinani.vercel.app/)
 - 📫 How to reach me **yinani@ucdavis.edu**
 - ⚡ Fun fact **I lived most of my life in Dubai 🌵**
 
