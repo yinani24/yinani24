@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Inani</h1>
-<h3 align="center">Full Stack Dev 🧑‍💻 from UC Davis 🐮</h3>
+<h3 align="center">Full Stack Dev 🧑‍💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yinani24&label=Profile%20views&color=0e75b6&style=flat" alt="yinani24" /> </p>
 
 <p align="center" ><img align="center" src="https://github.com/yinani24/yinani24/blob/main/gifs/event.JPG" alt="personal-photo" height="auto" width="400"/></p>
 
-- 🔭 I’m currently working on [Spotify Mood Tracker](https://github.com/yinani24/spotify_mood_tracker)
 - 👨‍💻 My Personal Website [Portfolio](https://yashinani.vercel.app/)
-- 📫 How to reach me **yinani@ucdavis.edu**
+- 📫 How to reach me **yinani2409@gmail.com**
 - ⚡ Fun fact **I lived most of my life in Dubai 🌵**
 
 <h3 align="left">Connect with me:</h3>
