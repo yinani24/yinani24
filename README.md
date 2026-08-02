@@ -5,3 +5,7 @@
 <p align="center" ><img align="center" src="https://github.com/yinani24/yinani24/blob/main/gifs/event.JPG" alt="personal-photo" height="auto" width="400"/></p>
 
 - 📫 How to reach me **yinani2409@gmail.com**
+
+### 🚀 Projects
+
+- **[Warmth Scorer](https://github.com/yinani24/warmth-scorer)** — an open-source tool that scores how well you treat your customers against Paul Graham's *Do Things that Don't Scale*.
