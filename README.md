@@ -8,4 +8,5 @@
 
 ### 🚀 Projects
 
+- **[Finance Tracker](https://github.com/yinani24/finance-tracker)** ([live](https://web-one-pi-66.vercel.app)) — drop a credit card statement in and find out which card you should have used. Parses entirely in your browser; nothing is uploaded.
 - **[Warmth Scorer](https://github.com/yinani24/warmth-scorer)** — an open-source tool that scores how well you treat your customers against Paul Graham's *Do Things that Don't Scale*.
